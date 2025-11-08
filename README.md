@@ -119,18 +119,6 @@ Output will be in the `dist/` folder.
 - **API Calls:** Native Fetch API
 - **Version Control:** Git
 
-## 👨‍💻 Developer
-
-**Your Name**  
-Frontend Developer
-
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
-- 📱 Phone: +91-XXXXXXXXXX
-
----
-
 ### 📝 Assignment Details
 
 **Company:** EZ Labs  
