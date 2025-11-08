@@ -4,7 +4,7 @@ A responsive single-page web application built with **React + Vite** and **Tailw
 
 > **Assignment Submission** for EZ Labs Frontend Developer Position
 
-## 🖼️ Live Preview
+## 🖼️ Live Preview https://ezlabs.netlify.app/
 
 ![Desktop View](./screenshots/desktop.png)
 *Desktop View - Home Page*
